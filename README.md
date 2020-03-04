@@ -1,6 +1,6 @@
 # WordCloud
 
-### Simple wordcloud generator app built around react-wordcloud
+### Simple wordcloud generator app built around [react-wordcloud](https://www.npmjs.com/package/react-wordcloud)
 
 ---
 
